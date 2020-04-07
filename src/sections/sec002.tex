@@ -1,8 +1,10 @@
 \section{Related Work}
 \label{sec:sec002}
 
-This section addresses related work in the HCI field, describing several MI applications.
+This section addresses related work in the HCI field, describing several medical imaging applications.
 Our approach covers the limitations of the works following described.
+More specifically, we are able to deal with non-homogeneous data.
+Comprising multimodal images~\cite{Zhang_2018_CVPR}, classification ({\it i.e.}, BIRADS scores) and annotations ({\it i.e.}, delineation of the lesion contours).
 
 \subsection{Data Visualization}
 
@@ -12,7 +14,7 @@ Moreover, authors asked users to think and perform browsing an image gallery and
 These studies, showed us refinement techniques as complements in image systems with relevant user feedback.
 However, the presented works are limited to non-clinical users, making it impossible to do a generalization to our research.
 
-\footnotetext[1]{\scriptsize This is the common/current practice in the radiologist services applied in the \hyperlink{https://hff.min-saude.pt/}{Hospital Fernando Fonseca} (HFF), Portugal.}
+\footnotetext[1]{\scriptsize This is the common/current practice in the radiologist services applied in the \href{https://hff.min-saude.pt/}{Hospital Fernando Fonseca} (HFF), Portugal.}
 
 \subsection{Clinical Workflow}
 
@@ -23,17 +25,17 @@ Supported by the above literature, our goal is to introduce a new tool with seve
 
 \subsection{Medical Imaging}
 
-From current medical imaging technologies, several issues were identified in the HCI design~\cite{Calisto:2017:TTM:3132272.3134111, Igarashi:2016:IVS:2984511.2984537}.
+From current medical imaging technologies, several issues were identified in the HCI design~\cite{Calisto:2017:TTM:3132272.3134111, calisto2017mimbcdui, Igarashi:2016:IVS:2984511.2984537}.
 Some works~\cite{Balducci:2018:BQA:3206505.3206555, Rosado:2015:NFS:2826165.2826213} show the current medical imaging identification techniques for other clinical domains, where most of available systems fail to address the visual nature of the task.
 In these two works~\cite{Balducci:2018:BQA:3206505.3206555, Rosado:2015:NFS:2826165.2826213}, the authors create a visual approach to support the \textit{Mental Model} development of the user.
 Medical imaging technologies are used to support physicians on the \textit{examination}, \textit{diagnosis}, and (in some cases) \textit{report}~\cite{10.1145/2639189.2639256}.
-Others~\cite{10.1145/1385569.1385651, 10.1145/1842993.1843023}, study the effectiveness and performance of medical imaging systems, demonstrating how to design a user study for medical imaging experts.
+Others~\cite{10.1145/1385569.1385651, 10.1145/1842993.1843023, Sousa:2017:VVR:3025453.3025566}, study the effectiveness and performance of medical imaging systems, demonstrating how to design a user study for medical imaging experts.
 Further, van Schooten et al.~\cite{10.1145/1842993.1843023} measured user performance in terms of time taken and error rate, while interacting with the provided system.
 Executing it with several medical users, in this work, the authors show an experiment where their users have similar characteristics as ours.
 
 \subsection{Diagnostic Systems}
 
-Medical imaging has also been extensively studied under the topic of \textit{Computer-Aided Diagnosis (CADx)}, which refers to systems that assist radiologists in image interpretation~\cite{Oram:2014:CDR:2598510.2598585, Molin:2016:UDA:2971485.2971561}.
+Medical imaging has also been extensively studied under the topic of \textit{Computer-Aided Diagnosis (CADx)}, which refers to systems that assist radiologists in image interpretation~\cite{Oram:2014:CDR:2598510.2598585, 10.1145/3359206}.
 Wilcox et al.~\cite{Wilcox:2010:DPI:1753326.1753650} propose a design for in-room, patient-centric information displays, based on iterative design with clinicians.
 However, these systems are not contemplating the design of an advanced visual interface for multimodal diagnosis on breast cancer disease.
 In the above works, we still lack on empirical studies regarding how clinicians can contribute with information contextualization about their clinical workflow, and general medical imaging diagnosis.

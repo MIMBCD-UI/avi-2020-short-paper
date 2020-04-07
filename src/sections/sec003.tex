@@ -1,26 +1,26 @@
 \section{Design of BreastScreening}
 \label{sec:sec003}
 
-The design of {\it BreastScreening} started with a qualitative study to understand radiology practices and workflow in the context of breast screening.
-Our study involved 31 clinicians, recruited on a volunteer basis from a large range of clinical scenarios (distinct health institutions in \textbf{Country}):
-8 clinicians from \textbf{Hospital Fernando Fonseca}; % HFF
-12 clinicians from \textbf{IPO-Lisboa}; %IPOL
-1 clinician from \textbf{Hospital de Santa Maria}; %HSM
-8 clinicians from \textbf{IPO-Coimbra}; %IPOC
-1 clinician from \textbf{Madeira Medical Center}; and %MMC
-1 clinician from \textbf{SAMS}. %SAMS
+The design of \href{https://breastscreening.github.io/}{{\it BreastScreening}} started with a qualitative study to understand radiology practices and workflow in the context of breast screening.
+Our study involved 31 clinicians, recruited on a volunteer basis from a large range of clinical scenarios (distinct health institutions in Portugal):
+8 clinicians from Hospital Fernando Fonseca; % HFF
+12 clinicians from IPO-Lisboa; %IPOL
+1 clinician from Hospital de Santa Maria; %HSM
+8 clinicians from IPO-Coimbra; %IPOC
+1 clinician from Madeira Medical Center; and %MMC
+1 clinician from SAMS. %SAMS
 Clinicians' experience ranged from 5 - 30 years of medical practice.
 The recruited specialists are in advanced career positions and were observed and interviewed in a semi-structured fashion.
 Each session took approximately 30 minutes.
 
 \subsection{Standard Clinical Environments}
 
-{\it BreastScreening} works with the standard formats supported by medical imaging~\cite{ng2017technical}, including the MG, US and MRI modalities.
-These modalities are available in a standard  Digital Imaging and Communications in Medicine (DICOM) format and supported in single-modality by existing systems~\cite{henriksen2018efficacy}. Moreover, most systems are general purpose and do not adapt to specific clinical domains ({\it e.g.}, breast screening). Therefore they do not provide adequate support to the different clinical workflows~\cite{Calisto:2017:TTM:3132272.3134111}.
+\href{https://breastscreening.github.io/}{{\it BreastScreening}} works with the standard formats supported by medical imaging~\cite{ng2017technical}, including the MG, US and MRI modalities.
+These modalities are available in a standard  Digital Imaging and Communications in Medicine (DICOM) format and supported in Single-Modality by existing systems~\cite{henriksen2018efficacy}. Moreover, most systems are general purpose and do not adapt to specific clinical domains ({\it e.g.}, breast screening). Therefore they do not provide adequate support to the different clinical workflows~\cite{Calisto:2017:TTM:3132272.3134111}.
 
 \subsection{Design Goals}
 
-Combining the clinical context and the technical design challenges lead to a set of design issues, including: \textit{medical imaging structure trade-offs}, \textit{RR temporal awareness}, \textit{image segmentation}, and radiologists system trust.
+Combining the clinical context and the technical design challenges lead to a set of design issues, including: \textit{medical imaging structure trade-offs}, \textit{RR temporal awareness}, \textit{image segmentation}~\cite{8736792}, and radiologists system trust.
 Based on these, we define five design goals:
 \begin{description}
 \item[{\it \underline{D}esign around and for \underline{M}edical \underline{I}maging} (DMI):] by taking into account the heterogeneous nature of medical imaging to leverage its contextual richness;
