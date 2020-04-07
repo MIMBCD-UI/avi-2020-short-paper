@@ -1,6 +1,6 @@
 \section{BreastScreening}
 \label{sec:sec004}
-To validate the proposed design goals, we created \hyperlink{https://breastscreening.github.io/}{{\it BreastScreening}}, as a Medical Imaging visualization proof-of-concept to be evaluated in a realistic clinical scenario.
+To validate the proposed design goals, we created \href{https://breastscreening.github.io/}{{\it BreastScreening}}, as a Medical Imaging visualization proof-of-concept to be evaluated in a realistic clinical scenario.
 In our design explorations, we sought to integrate several image modalities and visualization to support insight.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -33,10 +33,10 @@ After interacting with the system at the first time, the clinician is able to ef
 
 \subsection{Implementation}
 
-\hyperlink{https://breastscreening.github.io/}{{\it BreastScreening}} was implemented using \hyperlink{https://cornerstonejs.org/}{{\it CornerstoneJS}}~\cite{urban2017lesiontracker} with a \hyperlink{https://nodejs.org/}{{\it NodeJS}} server.
-To populate the system, we selected image sets from HFF patients and upload them into an \hyperlink{https://www.orthanc-server.com/}{{\it Orthanc}} server~\cite{Jodogne2018}.
+\href{https://breastscreening.github.io/}{{\it BreastScreening}} was implemented using \href{https://cornerstonejs.org/}{{\it CornerstoneJS}}~\cite{urban2017lesiontracker} with a \href{https://nodejs.org/}{{\it NodeJS}} server.
+To populate the system, we selected image sets from HFF patients and upload them into an \href{https://www.orthanc-server.com/}{{\it Orthanc}} server~\cite{Jodogne2018}.
 Each patient has three modalities (MG, US and MRI).
 
-The images were pre-processed and anonymized on the \hyperlink{https://www.orthanc-server.com/}{{\it Orthanc}} server and then consumed by the \hyperlink{https://breastscreening.github.io/}{{\it BreastScreening}} system.
-The \hyperlink{https://breastscreening.github.io/}{{\it BreastScreening}} core is developed in \hyperlink{https://www.w3schools.com/js/}{{\it JavaScript}} with \hyperlink{https://www.w3schools.com/jquery/}{{\it jQuery}} for \hyperlink{https://www.w3schools.com/html/}{{\it HTML}} document manipulation, event handling and \hyperlink{https://github.com/cornerstonejs/dicomParser}{{\it dicomParser}} for parsing DICOM files.
-The DICOM files can be loaded by drag-and-drop files into the browser window on the \hyperlink{https://www.orthanc-server.com/}{{\it Orthanc}} view.
+The images were pre-processed and anonymized on the \href{https://www.orthanc-server.com/}{{\it Orthanc}} server and then consumed by the \href{https://breastscreening.github.io/}{{\it BreastScreening}} system.
+The \href{https://breastscreening.github.io/}{{\it BreastScreening}} core is developed in \href{https://www.w3schools.com/js/}{{\it JavaScript}} with \href{https://www.w3schools.com/jquery/}{{\it jQuery}} for \href{https://www.w3schools.com/html/}{{\it HTML}} document manipulation, event handling and \href{https://github.com/cornerstonejs/dicomParser}{{\it dicomParser}} for parsing DICOM files.
+The DICOM files can be loaded by drag-and-drop files into the browser window on the \href{https://www.orthanc-server.com/}{{\it Orthanc}} view.
