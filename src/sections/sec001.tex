@@ -4,35 +4,34 @@
 Breast cancer is the most common cancer in women worldwide~\cite{henriksen2018efficacy}.
 Screening plays a fundamental role in the reduction of patient mortality rate.
 The most widely employed image modality for breast screening is MammoGraphy (MG).
-However, high-risk or dense breast patients require UltraSound (US) or Magnetic Resonance Imaging\footnotemark[1] (MRI) for proper examination.
+However, high-risk or dense breast patients require UltraSound (US) or Magnetic Resonance Imaging\footnotemark[1] (MRI) for proper examination~\cite{Maicas2019}.
 Therefore, it is quite rare to conduct screening using a \textit{Single-Modality}.
 
-In this paper, we describe the design and comparative testing of {\it BreastScreening} integrating information from several and different image modalities.
-We tested the design of {\it BreastScreening} with 31 clinicians noting that the time spent per each image on a \textit{Multi-Modality} strategy is reduced when compared with the \textit{Single-Modality} scenario.
-In addition, the lesion classification ({\em e.g.}, Breast Imaging Reporting and Data System - BIRADS) is also reduced from our \textit{Multi-Modality} proposed approach.
+In this paper, we describe the design and comparative testing of \hyperlink{https://breastscreening.github.io/}{{\it BreastScreening}} integrating information from several and different image modalities.
+We tested the design of \hyperlink{https://breastscreening.github.io/}{{\it BreastScreening}} with 31 clinicians noting that the time spent per each image on a \textit{Multi-Modality} strategy is reduced when compared with the \textit{Single-Modality} scenario.
+In addition, the lesion classification ({\em e.g.}, \hyperlink{https://breast-cancer.ca/bi-rads/}{Breast Imaging Reporting and Data System - BIRADS} ~\cite{SPAK2017179}) is also reduced from our \textit{Multi-Modality} proposed approach.
 
 \subsection{BreastScreening Challenges}
 
 Overall the system involves the  following functionalities:
 (1) an interface for identifying (and annotating ground truth) of two types of lesions (i.e., masses and calcifications) across image modalities;
 (2) support for categorization of the breast tissues (dense vs non-dense);
-(3) a classification (and recommendation) schema for lesion severity using the {\em Breast Imaging Reporting and Data System} (BIRADS)~\cite{aghaei2018association};
+(3) a classification (and recommendation) schema for lesion severity using \hyperlink{https://breast-cancer.ca/bi-rads/}{BIRADS}~\cite{aghaei2018association, SPAK2017179};
 (4) prompt access to clinical co-variables, such as personal and familiar records; and
 (5) proper visualizations for a follow-up diagnosis of the patients.
 
 \subsection{Design Process}
 
 The following topics summarize the process we conducted:
-(1) findings from a formative study with 31 clinicians, comprising Radiology Room (RR) observations and interviews, which are relevant for both Health Informatics (HI) and Human-Computer Interaction (HCI).
+(1) findings from a formative study with 31 clinicians, comprising Radiology Room (RR) observations and interviews, which are relevant for both Health Informatics (HI) and Human-Computer Interaction (HCI) fields of research.
 This leads us to explore the {\it design goals} (see Section~\ref{sec:sec003});
-(2) findings from an evaluation study of {\it BreastScreening}, a prototype we developed for the generation of a breast dataset with expert annotations (see Section~\ref{sec:sec004}); and
+(2) findings from an evaluation study~\cite{https://doi.org/10.13140/rg.2.2.16566.14403/1} of \hyperlink{https://breastscreening.github.io/}{{\it BreastScreening}}, a prototype we developed for the generation of a breast dataset with expert annotations (see Section~\ref{sec:sec004}); and
 (3) design recommendations for the use of visualizations to support medical imaging diagnosis (see Sections~\ref{sec:sec004} and \ref{sec:sec005}).
 
 \subsection{Contributions}
 
-In {\it BreastScreening} we provide several new insights, following novel interaction and visualization paradigms in the context of breast cancer screening:
+In \hyperlink{https://breastscreening.github.io/}{{\it BreastScreening}} we provide several new insights, following novel interaction and visualization paradigms~\cite{PAULO2019103316} in the context of breast cancer screening:
 $(i)$ multimodal interaction;
-$(ii)$ {\it loop-in-the-delineation};
-$(iii)$ indistinct visualization of cluttered lesions;
-$(iv)$ big data management platform; and
-$(v)$ clinicians' multi-screen, multi-environment interaction.
+$(ii)$ indistinct visualization of cluttered lesions;
+$(iii)$ big data management platform; and
+$(iv)$ clinicians' multi-screen, multi-environment interaction.

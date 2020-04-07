@@ -1,0 +1,334 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/francisco/Downloads/smmm/src/.texpadtmp/main.aux
+The style file: ../format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ../bibliography.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+`'201' is a function literal, not a string or missing field, for entry Balducci:2018:BQA:3206505.3206555
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Balducci:2018:BQA:3206505.3206555
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Balducci:2018:BQA:3206505.3206555
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Balducci:2018:BQA:3206505.3206555
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 2018 International Conference on Advanced Visual Interfaces}}
+\showarticletitle{Building a Qualified Annotation Dataset for Skin Lesion Analysis Trough Gamification}
+---the literal stack isn't empty for entry Balducci:2018:BQA:3206505.3206555
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.1145/3027063.3027103
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/3027063.3027103
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/3027063.3027103
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.1145/3027063.3027103
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems}}
+\showarticletitle{Understanding People: A Course on Qualitative and Quantitative HCI Research Methods}
+---the literal stack isn't empty for entry 10.1145/3027063.3027103
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry Calisto:2017:TTM:3132272.3134111
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Calisto:2017:TTM:3132272.3134111
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Calisto:2017:TTM:3132272.3134111
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Calisto:2017:TTM:3132272.3134111
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 2017 ACM International Conference on Interactive Surfaces and Spaces}}
+\showarticletitle{Towards Touch-Based Medical Image Diagnosis Annotation}
+---the literal stack isn't empty for entry Calisto:2017:TTM:3132272.3134111
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry Castner:2018:ONG:3279810.3279845
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Castner:2018:ONG:3279810.3279845
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Castner:2018:ONG:3279810.3279845
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Castner:2018:ONG:3279810.3279845
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the Workshop on Modeling Cognitive Processes from Multimodal Data}}
+\showarticletitle{Overlooking: The Nature of Gaze Behavior and Anomaly Detection in Expert Dentists}
+---the literal stack isn't empty for entry Castner:2018:ONG:3279810.3279845
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.1145/3290605.3300592
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/3290605.3300592
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/3290605.3300592
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.1145/3290605.3300592
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems}}
+\showarticletitle{Anchoring Effects and Troublesome Asymmetric Transfer in Subjective Ratings}
+---the literal stack isn't empty for entry 10.1145/3290605.3300592
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.1145/1385569.1385651
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/1385569.1385651
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/1385569.1385651
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.1145/1385569.1385651
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the Working Conference on Advanced Visual Interfaces}}
+\showarticletitle{Toward a Natural Interface to Virtual Medical Imaging Environments}
+---the literal stack isn't empty for entry 10.1145/1385569.1385651
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.5555/2826165.2826187
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.5555/2826165.2826187
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.5555/2826165.2826187
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.5555/2826165.2826187
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 9th International Conference on Pervasive Computing Technologies for Healthcare}}
+\showarticletitle{Designing Collaborative Healthcare Technology for the Acute Care Workflow}
+---the literal stack isn't empty for entry 10.5555/2826165.2826187
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry Igarashi:2016:IVS:2984511.2984537
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Igarashi:2016:IVS:2984511.2984537
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Igarashi:2016:IVS:2984511.2984537
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Igarashi:2016:IVS:2984511.2984537
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 29th Annual Symposium on User Interface Software and Technology}}
+\showarticletitle{Interactive Volume Segmentation with Threshold Field Painting}
+---the literal stack isn't empty for entry Igarashi:2016:IVS:2984511.2984537
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.1145/2909132.2909248
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/2909132.2909248
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/2909132.2909248
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.1145/2909132.2909248
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the International Working Conference on Advanced Visual Interfaces}}
+\showarticletitle{Mid-Air Browsing and Selection in Image Collections}
+---the literal stack isn't empty for entry 10.1145/2909132.2909248
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.1145/3206505.3206602
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/3206505.3206602
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/3206505.3206602
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.1145/3206505.3206602
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 2018 International Conference on Advanced Visual Interfaces}}
+\showarticletitle{Multimodal Interaction for Data Visualization}
+---the literal stack isn't empty for entry 10.1145/3206505.3206602
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry Oram:2014:CDR:2598510.2598585
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Oram:2014:CDR:2598510.2598585
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Oram:2014:CDR:2598510.2598585
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Oram:2014:CDR:2598510.2598585
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 2014 Conference on Designing Interactive Systems}}
+\showarticletitle{Crafting Diversity in Radiology Image Stack Scrolling: Control and Annotations}
+---the literal stack isn't empty for entry Oram:2014:CDR:2598510.2598585
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.1145/1133265.1133354
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/1133265.1133354
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/1133265.1133354
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.1145/1133265.1133354
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the Working Conference on Advanced Visual Interfaces}}
+\showarticletitle{Browsing Large Collections of Images through Unconventional Visualization Techniques}
+---the literal stack isn't empty for entry 10.1145/1133265.1133354
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry Rosado:2015:NFS:2826165.2826213
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Rosado:2015:NFS:2826165.2826213
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Rosado:2015:NFS:2826165.2826213
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Rosado:2015:NFS:2826165.2826213
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 9th International Conference on Pervasive Computing Technologies for Healthcare}}
+\showarticletitle{A Novel Framework for Supervised Mobile Assessment and Risk Triage of Skin Lesions}
+---the literal stack isn't empty for entry Rosado:2015:NFS:2826165.2826213
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry Sousa:2017:VVR:3025453.3025566
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Sousa:2017:VVR:3025453.3025566
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Sousa:2017:VVR:3025453.3025566
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Sousa:2017:VVR:3025453.3025566
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems}}
+\showarticletitle{VRRRRoom: Virtual Reality for Radiologists in the Reading Room}
+---the literal stack isn't empty for entry Sousa:2017:VVR:3025453.3025566
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.1145/2685553.2699332
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/2685553.2699332
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/2685553.2699332
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.1145/2685553.2699332
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 18th ACM Conference Companion on Computer Supported Cooperative Work & Social Computing}}
+\showarticletitle{Modeling Clinical Workflow in Daily ICU Rounds to Support Task-Based Patient Monitoring and Care}
+---the literal stack isn't empty for entry 10.1145/2685553.2699332
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry Tyllinen:2016:WNN:2858036.2858570
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Tyllinen:2016:WNN:2858036.2858570
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Tyllinen:2016:WNN:2858036.2858570
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Tyllinen:2016:WNN:2858036.2858570
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}}
+\showarticletitle{We Need Numbers!: Heuristic Evaluation During Demonstrations (HED) for Measuring Usability in IT System Procurement}
+---the literal stack isn't empty for entry Tyllinen:2016:WNN:2858036.2858570
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.1145/1842993.1843023
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/1842993.1843023
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/1842993.1843023
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.1145/1842993.1843023
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the International Conference on Advanced Visual Interfaces}}
+\showarticletitle{The Effect of Stereoscopy and Motion Cues on 3D Interpretation Task Performance}
+---the literal stack isn't empty for entry 10.1145/1842993.1843023
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry Wilcox:2010:DPI:1753326.1753650
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Wilcox:2010:DPI:1753326.1753650
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Wilcox:2010:DPI:1753326.1753650
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Wilcox:2010:DPI:1753326.1753650
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the SIGCHI Conference on Human Factors in Computing Systems}}
+\showarticletitle{Designing Patient-centric Information Displays for Hospitals}
+---the literal stack isn't empty for entry Wilcox:2010:DPI:1753326.1753650
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry Wobbrock:2011:ART:1978942.1978963
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Wobbrock:2011:ART:1978942.1978963
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry Wobbrock:2011:ART:1978942.1978963
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry Wobbrock:2011:ART:1978942.1978963
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the SIGCHI Conference on Human Factors in Computing Systems}}
+\showarticletitle{The Aligned Rank Transform for Nonparametric Factorial Analyses Using Only Anova Procedures}
+---the literal stack isn't empty for entry Wobbrock:2011:ART:1978942.1978963
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string or missing field, for entry 10.1145/2639189.2639256
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/2639189.2639256
+while executing---line 2902 of file ../format.bst
+`'201' is a function literal, not a string, for entry 10.1145/2639189.2639256
+while executing---line 2902 of file ../format.bst
+`'200' is a function literal, not a string, for entry 10.1145/2639189.2639256
+while executing---line 2902 of file ../format.bst
+ptr=3, stack=
+1
+In \bibinfo{booktitle}{\emph{Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational}}
+\showarticletitle{Notes from the Front Lines: Lessons Learnt from Designing for Improving Medical Imaging Data Sharing}
+---the literal stack isn't empty for entry 10.1145/2639189.2639256
+while executing---line 2902 of file ../format.bst
+You've used 38 entries,
+            5762 wiz_defined-function locations,
+            1659 strings with 27791 characters,
+and the built_in function-call counts, 50817 in all, are:
+= -- 6022
+> -- 2041
+< -- 0
++ -- 681
+- -- 699
+* -- 3863
+:= -- 5163
+add.period$ -- 194
+call.type$ -- 38
+change.case$ -- 306
+chr.to.int$ -- 38
+cite$ -- 38
+duplicate$ -- 4516
+empty$ -- 3043
+format.name$ -- 801
+if$ -- 11975
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 159
+newline$ -- 430
+num.names$ -- 306
+pop$ -- 1517
+preamble$ -- 1
+purify$ -- 647
+quote$ -- 0
+skip$ -- 1753
+stack$ -- 0
+substring$ -- 3778
+swap$ -- 642
+text.length$ -- 57
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 999
+warning$ -- 0
+while$ -- 255
+width$ -- 0
+write$ -- 852
+(There were 100 error messages)
