@@ -1,1 +1,1 @@
-# avi-2020-short-paper
+# [AVI 2020] Short Paper: BreastScreening
