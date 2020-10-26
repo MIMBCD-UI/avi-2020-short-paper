@@ -131,9 +131,9 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta4-dicom`](https://github.com/MIMBCD-UI/dataset-uta4-dicom)
 
-- [`prototype-single-modality`](https://github.com/mida-project/prototype-single-modality)
+- [`prototype-single-modality`](https://github.com/MIMBCD-UI/prototype-single-modality)
 
-- [`prototype-multi-modality`](https://github.com/mida-project/prototype-multi-modality)
+- [`prototype-multi-modality`](https://github.com/MIMBCD-UI/prototype-multi-modality)
 
 ### Dataset Resources
 
