@@ -185,6 +185,12 @@ Our organization is a non-profit organization. However, we have many needs acros
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 
+<span class="image">
+  <a href="https://opencollective.com/oppr" target="_blank">
+    <img src="https://opencollective.com/oppr/tiers/backer.svg" width="220">
+  </a>
+</span>
+
 #### Backers
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/oppr#backer)]
