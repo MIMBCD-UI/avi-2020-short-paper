@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/avi-2020-short-paper/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/avi-2020-short-paper?style=flat-square)](https://github.com/MIMBCD-UI/avi-2020-short-paper/commits/master)
-[![HitCount](http://hits.dwyl.io/MIMBCD-UI/avi-2020-short-paper.svg?style=flat-square)](http://hits.dwyl.io/MIMBCD-UI/avi-2020-short-paper)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMIMBCD-UI%2Favi-2020-short-paper&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
 [![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
